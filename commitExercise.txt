@@ -5,3 +5,5 @@ line 4 main commit 2
 line 5 main commit 2
 line 6 dev commit 1
 line 7 dev commit 1
+line 8 dev commit 2
+line 9 dev. commit 2
