@@ -1,2 +1,0 @@
-#powershellFTW
-silverado
