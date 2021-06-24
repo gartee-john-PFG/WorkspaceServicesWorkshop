@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 baker line 1
 baker line 2
-=======
-gartee line 1
-gartee line 2
-gartee line 3
->>>>>>> dev
