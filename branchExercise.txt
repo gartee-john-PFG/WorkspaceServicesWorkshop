@@ -1,3 +1,6 @@
+faris line 1
+faris line 2
+faris line 3
 gartee line 1
 gartee line 2
 gartee line 3
